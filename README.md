@@ -20,3 +20,5 @@ mvn first:echo
 
 mvn myPlugin:zip-fork
 mvn first:zip-fork
+
+mvn firstant:echo
