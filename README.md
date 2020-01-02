@@ -22,3 +22,8 @@ mvn myPlugin:zip-fork
 mvn first:zip-fork
 
 mvn firstant:echo
+mvn firstant:echo -Dmessage="my world"
+
+
+
+
